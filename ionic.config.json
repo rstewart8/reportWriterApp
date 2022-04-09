@@ -1,0 +1,7 @@
+{
+  "name": "reportWriterApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
